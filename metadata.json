@@ -1,0 +1,6 @@
+{
+  "name": "AI TrustShield",
+  "description": "Premium cybersecurity AI dashboard that detects scams, phishing, fake job offers, and fraud attempts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
